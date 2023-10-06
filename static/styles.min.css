@@ -19176,6 +19176,7 @@ a {
 
 .ti-heart:before {
     content: "\e634";
+    color: red;
 }
 
 .ti-heart-broken:before {
